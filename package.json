@@ -14,7 +14,8 @@
         "lint:eslint": "eslint src/**/*.{ts,vue} --cache --fix",
         "lint:style": "stylelint src/**/*.{css,scss,vue} --cache --fix",
         "prepare": "husky install",
-        "preinstall": "node ./scripts/preinstall.js"
+        "preinstall": "node ./scripts/preinstall.js",
+        "test": "echo \"No tests specified\" && exit 0"
     },
     "dependencies": {
         "element-plus": "^2.8.8",

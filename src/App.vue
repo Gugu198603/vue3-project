@@ -1,11 +1,9 @@
-<script setup lang="ts">
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <div>
-  <el-button>Hello World</el-button>
+    <el-button>Hello World</el-button>
   </div>
 </template>
 
-<style scoped>
-</style>
+<style scoped></style>
